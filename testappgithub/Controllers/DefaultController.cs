@@ -9,6 +9,7 @@ namespace testappgithub.Controllers
     public class DefaultController : Controller
     {
         // GET: Default
+        // adding comment for github publishing on 12th oct
            public ActionResult Index1()
         {
             return View();
